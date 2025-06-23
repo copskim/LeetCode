@@ -6,4 +6,6 @@ C++ solutions of [LeetCode Problems](https://leetcode.com/problemset/algorithms/
 ## Table
 |  #  |      Title      |     Solution    |    Difficulty   | Runtime  |        Topics            |
 |-----|---------------- | --------------- | --------------- | -----|-------------------------- |
-|1004 |[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/1004MaxConsecutiveOnesIII.cpp)|Medium|0ms, 100.00%|Array, Binary Search, Sliding Window, Prefix Sum|
+|	1	|[	Two Sum 	](	https://leetcode.com/problems/two-sum/	)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/1TwoSum.cpp)|	100.00%, 0ms	|	Easy	|	Array, Hash Table	|
+
+
