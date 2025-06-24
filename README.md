@@ -107,6 +107,6 @@ C++ solutions of [LeetCode Problems](https://leetcode.com/problemset/algorithms/
 |3512|[Minimum Operations to Make Array Sum Divisible by K ](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/3512MinimumOperationsToMakeArraySumDivisibleByK.cpp)|100.00%, 0ms|Easy|Array, Math|
 |3513|[Number of Unique XOR Triplets I ](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/3513NumberOfUniqueXORTripletsI.cpp)|100.00%, 0ms|Medium|Array, Math, Bit Manipulation|
 |3527|[Find the Most Common Response ](https://leetcode.com/problems/find-the-most-common-response/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/3527FindTheMostCommonResponse.cpp)|098.71%, 918ms|Medium|Array, Hash Table, String, Counting|
-|3560|[Find Minimum Log Transportation Cost ](https://leetcode.com/problems/find-minimum-log-transportation-cost/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/3560FindMinimumLogTransportationCost .cpp)|100.00%, 0ms|Easy|Math|
+|3560|[Find Minimum Log Transportation Cost ](https://leetcode.com/problems/find-minimum-log-transportation-cost/)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/3560FindMinimumLogTransportationCost.cpp)|100.00%, 0ms|Easy|Math|
 
 
