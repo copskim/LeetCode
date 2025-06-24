@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     constexpr inline bool is_vowel(char c) {

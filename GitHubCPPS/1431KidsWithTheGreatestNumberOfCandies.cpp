@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     std::vector<bool> kidsWithCandies(std::vector<int>& candies, int extraCandies) {

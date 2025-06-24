@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
@@ -23,5 +22,6 @@ public:
             }
         }
         return(maxOnes);
+
     }
 };
