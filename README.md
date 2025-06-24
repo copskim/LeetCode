@@ -5,3 +5,7 @@ C++ solutions of [LeetCode Problems](https://leetcode.com/problemset/algorithms/
 
 ## Table
 |  #  |      Title      |     Solution    |    Difficulty   | Runtime  |        Topics            |
+|-----|---------------- | --------------- | --------------- | -----|-------------------------- |
+|	1	|[	Two Sum 	](	https://leetcode.com/problems/two-sum/	)|[C++](https://github.com/copskim/LeetCode/blob/main/GitHubCPPS/1TwoSum.cpp)|	100.00%, 0ms	|	Easy	|	Array, Hash Table	|
+
+
